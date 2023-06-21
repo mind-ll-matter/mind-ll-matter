@@ -1,6 +1,6 @@
 # Hi, I'm AJ! 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.ajevile.com)
+[![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
 
@@ -13,9 +13,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about machine learning 
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mind-ll-matter" alt="mind-ll-matter" /></a> </p>
 
 
 ### Connect with me:
@@ -93,8 +90,10 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 </details>
 -->
 
-<details>
-  <summary>:zap: AJ's GitHub Stats</summary>
+### Languages and Tools:
+
+<details align="center">
+  <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
 
   <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
