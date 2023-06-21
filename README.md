@@ -14,7 +14,7 @@
         <li>🥅 2023 Goals: Learn more about machine learning </li>
         <li>⚡ Fun fact: </li>
         <li>📍  I'm based in in New Zealand 🌿</li>
-        <li> 👨‍💻 All of my projects are available at <a href="ajevile.com">ajevile.com</a></li>
+        <li> 👨‍💻 All of my projects are available at <a href="https://www.ajevile.com">ajevile.com</a></li>
         <!-- - 🤝 I’m looking for help with ... -->
         <!-- - 🔭 I’m currently working on ... -->
     </ul>
