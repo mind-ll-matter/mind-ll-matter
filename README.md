@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 </details>
 -->
 
-<h3 align="center"> My GitHub Stats </h3>
+<h3 align="center"> GitHub Stats </h3>
 
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
