@@ -5,30 +5,23 @@
 <h1 align="center">Hi 👋, I'm AJ!</h1>
 <h2 align="center"> I'm a Biomedical Engineer turned Full-Stack ML Engineer & Founder! </h2>
 
-<h3 align="center">I'm looking for work in web development and/or machine learning</h3>
+<h3 align="center">I'm looking for work in Web Development or Machine Learning</h3>
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
         <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
-        <li> 🔭  I'm currently working on an AI-based app that will save restaurants money</li>
+        <li> 🔭  I'm currently working on an AI-based app to save restaurants (and us) money</li>
         <li> 🤝  I'm looking for help with data architecture</li>
         <li>👯 I’m looking to collaborate with other developers</li>
         <li>🥅 2023 Goals: Learn more about machine learning </li>
         <li>⚡ Fun fact: I like boxing, waka ama and op shopping</li>
-        <li> 📍  I'm based in in New Zealand 🌿</li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
+        <li> 📍  I'm based in in New Zealand 🌿, but open to remote work</li>
     </ul>
 </div>
 
 ---
-
-<h3 align="center">Connect with me</h3>
-<div align="center">
-<a href="https://linkedin.com/in/ajevile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="random" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="random" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a> -->
-</div>
 
 <h3 align="center"> Languages and Tools </h3>
 
@@ -86,6 +79,13 @@
 
 -->
 
+<h3 align="center">Connect with me</h3>
+<div align="center">
+<a href="https://linkedin.com/in/ajevile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="random" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="random" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a> -->
+</div>
+
 <br />
 <br />
 
@@ -103,9 +103,9 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
   <!-- <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
-  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=transparent&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&theme=transparent&" alt="mind-ll-matter" /></p>
 </p>
 
 [website]: https://ajevile.com
