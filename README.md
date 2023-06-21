@@ -9,20 +9,16 @@
 <h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!! </h2>
 
 
-
 <h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
-<p align="center">
-<ul align="center">
-<li align="center">🌱 I’m currently learning PyTorch and everything machine learning! </li>
-<li align="center">👯 I’m looking to collaborate with other developers </li>
-<li align="center">🥅 2023 Goals: Learn more about machine learning  </li>
-<li align="center">⚡ Fun fact:  </li>
-<li align="center">📍  I'm based in in New Zealand 🌿 </li>
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+- 🌱 I’m currently learning PyTorch and everything machine learning!
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2023 Goals: Learn more about machine learning 
+- ⚡ Fun fact: 
+- 📍  I'm based in in New Zealand 🌿
 <!-- - 👨‍💻 All of my projects are available at ... -->
 <!-- - 🤝 I’m looking for help with ... -->
 <!-- - 🔭 I’m currently working on ... -->
-</ul>
-</p>
 
 
 
