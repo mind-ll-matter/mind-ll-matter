@@ -1,16 +1,17 @@
-# Hi, I'm AJ! 👋 
+![logo](./banner1.png)
+
 
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
 
+<h1 align="center"># Hi 👋, I'm AJ! </h1>
+<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!! </h2>
 
-## I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!!
 
 
-
-### I'm looking for work in web development and/or machine learning.
-
+<h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
+<p align="center">
 - 🌱 I’m currently learning PyTorch and everything machine learning!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about machine learning 
@@ -19,17 +20,18 @@
 <!-- - 👨‍💻 All of my projects are available at ... -->
 <!-- - 🤝 I’m looking for help with ... -->
 <!-- - 🔭 I’m currently working on ... -->
+</p>
 
 
 
-### Connect with me:
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/ajevile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="random" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="random" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a> -->
 </p>
 
-### Languages and Tools:
+<h3 align="center"> Languages and Tools </h3>
 
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
@@ -95,7 +97,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 </details>
 -->
 
-### AJ's GitHub Stats:
+<h3 align="center"> AJ's GitHub Stats </h3>
 
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
