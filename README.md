@@ -103,9 +103,9 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
   <!-- <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=transparent&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
-  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=transparent&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&theme=transparent&" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=tokyonight&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&theme=tokyonight&" alt="mind-ll-matter" /></p>
 </p>
 
 [website]: https://ajevile.com
