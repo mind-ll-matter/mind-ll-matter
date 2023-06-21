@@ -15,7 +15,7 @@
         <li> 🔭  I'm currently working on an AI-based app to save restaurants (and us) money</li>
         <li> 🤝  I'm looking for help with data architecture</li>
         <li>👯 I’m looking to collaborate with other developers</li>
-        <li>🥅 2023 Goals: Learn more about machine learning </li>
+        <li>🥅 2023 Goals: Learn more about machine learning and startups</li>
         <li>⚡ Fun fact: I like boxing, waka ama and op shopping</li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
         <li> 📍  I'm based in in New Zealand 🌿, but open to remote work 🌎</li>
