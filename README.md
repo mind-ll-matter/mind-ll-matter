@@ -10,6 +10,7 @@
 
 
 <h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
+    <img align="right" width="300" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
         <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
@@ -21,7 +22,6 @@
         <!-- - 🤝 I’m looking for help with ... -->
         <!-- - 🔭 I’m currently working on ... -->
     </ul>
-    <img align="right" width="300" src="./lofi-girl-lofi.gif" />
 </div>
 
 ---
