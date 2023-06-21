@@ -10,7 +10,7 @@
 
 
 <h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🌱 I’m currently learning PyTorch and everything machine learning!
 - 👯 I’m looking to collaborate with other developers
