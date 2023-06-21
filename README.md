@@ -13,8 +13,8 @@
         <li>👯 I’m looking to collaborate with other developers</li>
         <li>🥅 2023 Goals: Learn more about machine learning </li>
         <li>⚡ Fun fact: </li>
-        <li>📍  I'm based in in New Zealand 🌿</li>
-        <li> 👨‍💻 All of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
+        <li> 📍  I'm based in in New Zealand 🌿</li>
+        <li>👨‍💻 All of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
         <!-- - 🤝 I’m looking for help with ... -->
         <!-- - 🔭 I’m currently working on ... -->
     </ul>
