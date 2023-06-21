@@ -6,7 +6,7 @@
 <h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!! </h2>
 
 <h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
-    <img align="right" height="270" src="./lofi-girl-lofi.gif" />
+    <img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
         <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
