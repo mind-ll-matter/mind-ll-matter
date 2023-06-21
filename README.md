@@ -12,14 +12,16 @@
 
 <h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
 <p align="center">
-- 🌱 I’m currently learning PyTorch and everything machine learning!
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about machine learning 
-- ⚡ Fun fact: 
-- 📍  I'm based in in New Zealand 🌿
+<ul align="center">
+<li>🌱 I’m currently learning PyTorch and everything machine learning! </li>
+<li>👯 I’m looking to collaborate with other developers </li>
+<li>🥅 2023 Goals: Learn more about machine learning  </li>
+<li>⚡ Fun fact:  </li>
+<li>📍  I'm based in in New Zealand 🌿 </li>
 <!-- - 👨‍💻 All of my projects are available at ... -->
 <!-- - 🤝 I’m looking for help with ... -->
 <!-- - 🔭 I’m currently working on ... -->
+</ul>
 </p>
 
 
