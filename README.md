@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
-<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack ML Engineer & Founder! </h2>
+<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer & Founder! </h2>
 
 <h3 align="center">👨‍💻 Currently looking for work in Web Development or Machine Learning 👨‍💻</h3>
 <br>
