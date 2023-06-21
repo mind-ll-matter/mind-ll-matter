@@ -16,7 +16,7 @@
 
 
 ### Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/ajevile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="random" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="random" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a> -->
@@ -92,11 +92,10 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
-
   <!-- <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
-  <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&show_icons=true&locale=en" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&" alt="mind-ll-matter" /></p>
 </p>
 
 [website]: https://ajevile.com
