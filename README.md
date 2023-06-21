@@ -5,14 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
 
 
-## I'm a Biomedical Engineer, Full-Stack Developer, and Startup Founder, based in New Zealand!!
+## I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!!
 
-### I'm looking for work that will help sharpen my skills in mobile and/or web development, as well as machine learning.
+
+
+### I'm looking for work in web development and/or machine learning.
 
 - 🌱 I’m currently learning PyTorch and everything machine learning!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about machine learning 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: 
+- 📍  I'm based in in New Zealand 🌿
+<!-- - 👨‍💻 All of my projects are available at ... -->
+<!-- - 🤝 I’m looking for help with ... -->
+<!-- - 🔭 I’m currently working on ... -->
+
 
 
 ### Connect with me:
