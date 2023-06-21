@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 </details>
 -->
 
-### Languages and Tools:
+### AJ's GitHub Stats:
 
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
