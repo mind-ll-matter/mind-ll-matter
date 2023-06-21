@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AJ!</h1>
 
-<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer & Founder! </h2>
+<h2 align="center"> A Full-Stack Developer & Founder interested in Machine Learning! </h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p> -->
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
@@ -11,10 +11,10 @@
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
-        <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
-        <li> 🔭  I'm currently working on an AI-based app to save restaurants (and us) money</li>
+        <li>🌱 Right now, I'm learning PyTorch and everything machine learning!</li>
+        <li> 🔭  Currently working on an AI-based app to save restaurants (and us) money</li>
         <li> 🤝  I'm looking for help with data architecture</li>
-        <li>👯 I’m looking to collaborate with other developers</li>
+        <li>👯 I’m also open to collaborate with other developers</li>
         <li>🥅 2023 Goals: Learn more about machine learning and startups</li>
         <li>⚡ Fun fact: I like boxing, waka ama and op shopping</li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
