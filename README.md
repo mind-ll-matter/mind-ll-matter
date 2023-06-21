@@ -24,7 +24,7 @@
 
 <br/>
 
-<h3 align="center"> Languages and Tools </h3>
+<h3 align="center"> Languages & Tools </h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
