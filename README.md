@@ -1,6 +1,6 @@
-<!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
 ![logo](./banner1.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p>
+<!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
 <h1 align="center">Hi 👋, I'm AJ!</h1>
 <h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!! </h2>
@@ -10,7 +10,7 @@
 <div>
     <ul align="left">
         <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
-        <li> 🔭  I'm currently working on a platform that will save restaurants money, using machine learning</li>
+        <li> 🔭  I'm currently working on an AI-based app that will save restaurants money</li>
         <li> 🤝  I'm looking for help with data architecture</li>
         <li>👯 I’m looking to collaborate with other developers</li>
         <li>🥅 2023 Goals: Learn more about machine learning </li>
