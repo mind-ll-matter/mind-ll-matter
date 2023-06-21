@@ -3,10 +3,11 @@
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
 <h1 align="center">Hi 👋, I'm AJ!</h1>
-<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack Developer, and Startup Founder!! </h2>
+<h2 align="center"> I'm a Biomedical Engineer turned Full-Stack ML Engineer & Founder! </h2>
 
-<h3 align="center">I'm looking for work in web development and/or machine learning.</h3>
-    <img align="right" height="200" src="./lofi-girl-lofi.gif" />
+<h3 align="center">I'm looking for work in web development and/or machine learning</h3>
+<br>
+<img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
         <li>🌱 I’m currently learning PyTorch and everything machine learning!</li>
