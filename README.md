@@ -1,4 +1,4 @@
-![logo](./banner3.png)
+![logo](./banner1.png)
 
 <h1 align="center">Hi 👋, I'm AJ!</h1>
 
