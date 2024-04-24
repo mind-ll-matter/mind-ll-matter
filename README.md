@@ -11,14 +11,14 @@
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <div>
     <ul align="left">
-        <li>🌱 Right now, I'm learning PyTorch and everything machine learning!</li>
-        <li> 🔭  Currently working on an AI-based app to save restaurants (and us) money</li>
+<!--         <li>🌱 Right now, I'm learning PyTorch and everything machine learning!</li> -->
+        <li> 🔭  Currently working on an AI app to help my manager save time during pub quizzes</li>
         <li> 🤝  I'm looking for help with data architecture</li>
-        <li>👯 I’m also open to collaborate with other developers</li>
-        <li>🥅 2023 Goals: Learn more about machine learning and startups</li>
-        <li>⚡ Fun fact: I like boxing, waka ama and op shopping</li>
+        <li>👯 I’m also open to collaborate with other developers or designers</li>
+        <li>🥅 2024 Goals: Build cool stuff</li>
+        <li>⚡ Fun fact: Idk what I'm doing XD </li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
-        <li> 📍  I'm based in in New Zealand 🌿, but open to remote work 🌎</li>
+        <li> 📍 I'm based in New Zealand 🌿, but open to traveling or remote work 🌎</li>
     </ul>
 </div>
 
