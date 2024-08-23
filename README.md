@@ -15,6 +15,7 @@
 <br/>
 
 ## 😊 About Me
+<br>
 
 I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have 2 years experience developing websites and full-stack apps including personal and client projects. Reach out to me on LinkedIn on the left - interested to see how I can help!
 
