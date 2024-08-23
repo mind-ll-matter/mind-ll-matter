@@ -29,7 +29,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 <!--         <li> 🤝  I'm looking for help with data architecture</li> -->
         <li>👯 Keen to collaborate on projects with other developers</li>
         <li>🥅 2024 Goals: Find good people, build cool stuff</li>
-        <li>⚡ Fun fact: I make a good mojito :D</li>
+        <li>⚡ Fun fact: I make a pretty good mojito :D</li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
         <li> 📍 Based in New Zealand 🌿 and open to moving or remote work 🌎</li>
     </ul>
