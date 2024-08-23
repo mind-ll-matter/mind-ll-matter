@@ -13,9 +13,6 @@
   </a>
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ## 😊 About Me
 
@@ -44,6 +41,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 
 <!-- <h3 align="center">🤖 Current Tech Stack 🤖</h3> -->
 ## 🤖 Tech Stack
+<br/>
 <br/>
 <br/>
 <br/>
@@ -79,6 +77,9 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
     <td>Docker, Terraform, AWS</td>
   </tr>
 </table>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <!-- <h3 align="center">🛠️ Languages & Tools 🛠️</h3> -->
@@ -187,6 +188,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 </div>
 <br/>
 <br/>
+<br/>
 
 
 <!-- 
@@ -213,6 +215,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 <!--   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p> -->
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=tokyonight&show_icons=true&hide=stars&locale=en" alt="mind-ll-matter" /></p>
 </p>
+<br/>
 <br/>
 <br/>
 <br/>
