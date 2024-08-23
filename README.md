@@ -7,6 +7,11 @@
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
 <h3 align="center">✨ Front-end Developer ✨ Back-end Developer ✨</h3>
+<p align="center">
+  <a href="#">
+    <img height="30em" src="https://skillicons.dev/icons?i=react,ts,nodejs,py,mongo,postgresql,aws" />
+  </a>
+</p>
 <br/>
 
 ## 😊 About Me
@@ -49,7 +54,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
   </tr>
   <tr>
     <td>Database</td>
-    <td>MongoDB, MySQL</td>
+    <td>MongoDB, PostgreSQL</td>
   </tr>
 <!--   <tr>
     <td>Mobile</td>
