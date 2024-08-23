@@ -81,7 +81,6 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 <br/>
 <br/>
 <br/>
-<br/>
 
 <!-- <h3 align="center">🛠️ Languages & Tools 🛠️</h3> -->
 ## 🛠️ More Tools
@@ -118,7 +117,6 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -187,7 +185,6 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
     <a href="https://linkedin.com/in/ajevile" target="blank"><img height="30em" src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://linkedin.com/in/ajevile" target="blank"><img height="30em" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
-<br/>
 <br/>
 <br/>
 
