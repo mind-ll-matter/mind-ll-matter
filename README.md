@@ -1,8 +1,8 @@
 ![logo](./banner4.png)
 
-<h1 align="center">Hi 👋, I'm AJ!</h1>
+<h1 align="center">👋 Hi, I'm AJ!</h1>
 
-<h2 align="center">Fullstack Developer</h2>
+<h2 align="center">I like making cool stuff :)</h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p> -->
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
@@ -11,7 +11,7 @@
 
 ## 😊 About Me
 
-I'm a software developer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I also have 2 years experience developing websites and fullstack apps including personal and client projects.Reach out to me on LinkedIn on the left - interested to see how I can help!
+I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have 2 years experience developing websites and full-stack apps including personal and client projects. Reach out to me on LinkedIn on the left - interested to see how I can help!
 
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
