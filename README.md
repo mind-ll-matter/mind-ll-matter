@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p> -->
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
-<h3 align="center">✨ Front-end Developer ✨ Back-end Developer ✨</h3>
+<h3 align="center">✨ Fullstack Developer ✨</h3>
 <p align="center">
   <a href="#">
     <img height="30em" src="https://skillicons.dev/icons?i=react,ts,nodejs,py,mongo,postgresql,aws" />
@@ -17,7 +17,7 @@
 ## 😊 About Me
 <br>
 
-I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have 2 years experience developing websites and full-stack apps including personal and client projects. Reach out to me on LinkedIn on the left - interested to see how I can help!
+I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have 2 years experience developing websites and fullstack apps including personal and client projects. Reach out to me on LinkedIn on the left - interested to see how I can help!
 
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
@@ -25,10 +25,10 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
     <ul align="left">
 <!--         <li>🌱 Right now, I'm learning PyTorch and everything machine learning!</li> -->
         <li> 🔍  Open to opportunities</li>
-        <li> 🔭  Working on an AI app to help my manager save time</li>
+        <li> 🔭  Working on free apps to help people</li>
 <!--         <li> 🤝  I'm looking for help with data architecture</li> -->
         <li>👯 Keen to collaborate on projects with other developers</li>
-        <li>🥅 2024 Goals: Find good people, build cool stuff</li>
+        <li>🥅 2025 Goal: Find a project worth building</li>
         <li>⚡ Fun fact: I make a pretty good mojito :D</li>
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
         <li> 📍 Based in New Zealand 🌿 and open to moving or remote work 🌎</li>
@@ -161,7 +161,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 <a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a>
 </div> -->
 
-<div align="center">
+<!--<div align="center">
     <a href="https://linkedin.com/in/ajevile" target="blank"><img height="30em" src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://linkedin.com/in/ajevile" target="blank"><img height="30em" src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://linkedin.com/in/ajevile" target="blank"><img height="30em" src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -187,6 +187,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 </div>
 <br/>
 <br/>
+-->
 
 
 <!-- 
@@ -209,7 +210,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
   <!-- <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mind-ll-matter&theme=tokyonight&" alt="mind-ll-matter" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=mind-ll-matter&theme=tokyonight&" alt="mind-ll-matter" /></p>
 <!--   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p> -->
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=tokyonight&show_icons=true&hide=stars&locale=en" alt="mind-ll-matter" /></p>
 </p>
