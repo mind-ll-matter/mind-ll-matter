@@ -150,12 +150,12 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
 -->
 
 <!-- <h3 align="center">Connect with me</h3> -->
-## 🤝 Connect with me
+<!-- ## 🤝 Connect with me
 <br/>
 <br/>
 <br/>
 
-<!-- <div align="center">
+<div align="center">
 <a href="https://linkedin.com/in/ajevile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="random" height="30" width="40" /></a>
 <a href="https://kaggle.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="random" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/random" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="random" height="30" width="40" /></a>
@@ -210,7 +210,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 <p align="center">
   <!-- <summary>:zap: AJ's GitHub Stats</summary> -->
   <!-- <img align="left" alt="AJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=mind-ll-matter&theme=tokyonight&" alt="mind-ll-matter" /></p>
+<!--   <p align="center"><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=mind-ll-matter&theme=tokyonight&" alt="mind-ll-matter" /></p> -->
 <!--   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mind-ll-matter&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p> -->
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mind-ll-matter&theme=tokyonight&show_icons=true&hide=stars&locale=en" alt="mind-ll-matter" /></p>
 </p>
