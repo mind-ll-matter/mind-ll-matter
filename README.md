@@ -65,7 +65,7 @@ I'm a Software Engineer from New Zealand. I developed my software and data exper
         <li>👯 Keen to collaborate on projects with other developers</li>
         <li>🥅 2025 Goal: Find a project worth building</li>
         <li>⚡ Fun fact: I make a pretty good mojito :D</li>
-        <li>👨‍💻 Check out some of my projects at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
+        <li>👨‍💻 Check out some of my projects at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">blog.mindiimatter.com</a></li>
         <li> 📍 Based in New Zealand 🌿 and open to moving or remote work 🌎</li>
     </ul>
 </div>
