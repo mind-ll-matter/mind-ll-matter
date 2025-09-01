@@ -52,7 +52,7 @@
 
 <br/>
 
-I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have been doing web development for the past 3 years. You can reach out to me on LinkedIn on the left. Would love to see how I can help!
+I'm a Software Engineer from New Zealand. I developed my software and data expertise with a background in Biomedical Engineering. I have been doing web development for the past 2 years. You can reach out to me on LinkedIn or X. Would love to see how I can help!
 
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
